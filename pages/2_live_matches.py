@@ -3,8 +3,6 @@ import requests
 
 st.title("⚡ Live Matches")
 
-# Auto refresh every 15 seconds
-st_autorefresh(interval=15000, key="refresh")
 
 API_KEY = "121e6fbc23msh7da752303c4bf8dp1377c5jsn12cfc3cfda4f"
 
